@@ -54,7 +54,6 @@ Execute o método main().
 🖥️ Resultado Esperado
 Ao executar a classe Main, você verá a seguinte saída no console, demonstrando que o sistema processou os pedidos corretamente:
 
-Plaintext
 
 ✅ Novo pedido criado com sucesso.
 -> Item 'Notebook XYZ' adicionado ao pedido.
@@ -63,6 +62,10 @@ Plaintext
 --- Itens do Pedido ---
 Notebook XYZ (x1) - R$3500.0
 Mouse sem fio (x2) - R$171.0
+Teclado Mecânico (x1) - R$400.0
+===========================
+TOTAL DO PEDIDO: R$4071.0
+===========================
 Teclado Mecânico (x1) - R$400.0
 ===========================
 TOTAL DO PEDIDO: R$4071.0
