@@ -55,6 +55,11 @@ Execute o método main().
 Ao executar a classe Main, você verá a seguinte saída no console, demonstrando que o sistema processou os pedidos corretamente:
 
 
+## 🖥️ Resultado Esperado
+
+Ao executar a classe `Main`, você verá a seguinte saída no console, demonstrando que o sistema processou os pedidos corretamente:
+
+```bash
 ✅ Novo pedido criado com sucesso.
 -> Item 'Notebook XYZ' adicionado ao pedido.
 -> Item 'Mouse sem fio' adicionado ao pedido.
@@ -65,8 +70,6 @@ Mouse sem fio (x2) - R$171.0
 Teclado Mecânico (x1) - R$400.0
 ===========================
 TOTAL DO PEDIDO: R$4071.0
-===========================
-Teclado Mecânico (x1) - R$400.0
 ===========================
 TOTAL DO PEDIDO: R$4071.0
 ===========================
